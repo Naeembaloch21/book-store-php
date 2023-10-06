@@ -44,7 +44,6 @@
             </div>
         </div>
     </div>
-    <img src="" alt="">
     <hr style="border-color:22px white;" class="mb-5 ">
     <div class="container">
         <div class="row  d-flex">

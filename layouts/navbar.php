@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <img class="mx-auto d-block" src="../book-store/assets/images/logo_png (1).webp" style="width: 49.5%;" alt="">
+            <img class="mx-auto d-block" src="../book-store/assets/images/logo_png (1).webp" style="width: 49.5%;" alt="Error:404">
         </div>
         <div class="col-md-4  text-end">
             <div class="dropdown pe-3">
@@ -45,7 +45,6 @@
                         <li class="nav-item">
                             <a class="nav-link active pe-5 text-light" href="../../../Php-BookStore/books.php">BOOKS</a>
                         </li>
-
                         <li class="nav-item">
                             <a class="nav-link active pe-5 text-light" href="../../../Php-BookStore/about.php" tabindex="-1" aria-disabled="true">About US</a>
                         </li>
