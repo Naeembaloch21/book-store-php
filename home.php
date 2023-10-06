@@ -179,8 +179,6 @@ include('layouts/navbar.php')
 
         </div>
     </div>
-
-
 <?php
 include('layouts/footer.php')
 ?>
