@@ -5,14 +5,12 @@
                 <i class="fa fa-shopping-cart fs-4 me-3" aria-hidden="true"></i>
             </div>
             <div class="mr-2 me-2">
-                <i class="fa fa-heart fs-4 me-3" ></i>
+                <i class="fa fa-heart fs-4 me-3"></i>
             </div>
             <div class="me-2">
                 <i class="fa fa-copy fs-4 me-3"></i>
             </div>
         </div>
-
-
         <div class="col-md-4">
             <img class="mx-auto d-block" src="../book-store/assets/images/logo_png (1).webp" style="width: 49.5%;" alt="">
         </div>
