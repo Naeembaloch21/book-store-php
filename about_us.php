@@ -4,7 +4,6 @@ include('layouts/header.php')
 <?php
 include('layouts/navbar.php')
 ?>
-
 <div class="container">
     <div class="row pt-5 pb-5 bg-light">
         <div class="col-md-6">
@@ -35,14 +34,13 @@ include('layouts/navbar.php')
         them, when we make them more important than the truth they are meant to point at.</p>
 </div>
 <div class="container">
-    <video src="https://www.youtube.com/watch?v=eH2WNtL5ong "></video>
     <div class="container-fluid mb-5 ">
         <div class="row ">
             <div class="col-sm-4 mt-4">
-                <img src="assets/images/single-image-16.jpg " width="100% " alt="Error:404">
+                <img src="assets/images/single-image-16.jpg " width="100% " alt="image not found">
             </div>
             <div class="col-sm-4 mt-4 ">
-                <img src="assets/images/single-image-18.jpg " width="100% " alt="Error:404">
+                <img src="assets/images/single-image-18.jpg " width="100% " alt="image not found">
             </div>
             <div class="col-sm-4 mt-4">
                 <p>Lorem ipsum dolor sit amet, consectetur cing elit. Suspe ndisse suscipit sagittis leo sit
@@ -64,14 +62,14 @@ include('layouts/navbar.php')
     <div class="container ">
         <div class="row ">
             <div class="col-sm-6 mt-5 ">
-                <img class="rounded-circle " src="assets/images/testimonial-01-140x140.jpg " alt="Error:404">
+                <img class="rounded-circle " src="assets/images/testimonial-01-140x140.jpg " alt="image not found">
                 <p class="fw-bold ">" Auteur is a monthly book review publication distributed to 400,000 avid
                     readers through subscribing bookstores & public libraries. "</p>
                 <p class="fw-bold ">Vladimir Nabokov</p>
                 <p>/Reporter</p>
             </div>
             <div class="col-sm-6 mt-5 ">
-                <img class="rounded-circle " src="assets/images/testimonial-02-140x140.jpg " alt="Error:404">
+                <img class="rounded-circle " src="assets/images/testimonial-02-140x140.jpg " alt="image not found">
                 <p class="fw-bold ">" It was a dark night, with only occasional scattered lights, glittering like
                     stars on the plain. It flashed upon me suddenly: they were going to shoot me! "</p>
                 <p class="fw-bold ">Savanna Walker</p>
@@ -97,10 +95,10 @@ include('layouts/navbar.php')
         </div>
         <div class="col-sm-6 mt-5 d-flex ">
             <div class="me-5 mt-5 ">
-                <img src="assets/images/single-image-06.png " alt="Error:404" width="100% " height="45% ">
+                <img src="assets/images/single-image-06.png " alt="image not found" width="100% " height="45% ">
             </div>
             <div class="ms-5 ">
-                <img src="assets/images/single-image-07.png " alt="Error:404" width="100% " height="76% ">
+                <img src="assets/images/single-image-07.png " alt="image not found" width="100% " height="76% ">
             </div>
         </div>
     </div>
