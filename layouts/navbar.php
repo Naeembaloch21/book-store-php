@@ -50,7 +50,7 @@
                             <a class="nav-link active pe-5 text-light" href="../../../Book-store-php/book-store/about_us.php" tabindex="-1" aria-disabled="true">About US</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active pe-5 text-light" href="../../../Book-store-php/book-store/about_us.php">Contact Us</a>
+                            <a class="nav-link active pe-5 text-light" href="../../../Book-store-php/book-store/contact_us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div>
