@@ -1,6 +1,6 @@
 <div class="container-fluid mt-5">
     <div class="row">
-        <div class="col-md-4 d-flex ">
+        <div class="col-md-4 d-flex text-success">
             <div class="text-success mr-2 me-2">
                 <i class="fa fa-shopping-cart fs-4 me-3" aria-hidden="true"></i>
             </div>
@@ -40,17 +40,17 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto d-block d-flex text-light">
                         <li class="nav-item">
-                            <a class="nav-link active pe-5 text-light" aria-current="page" href="../../../Php-BookStore/index.php">Home</a>
+                            <a class="nav-link active pe-5 text-light" aria-current="page" href="../../../Book-store-php/book-store/home.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active pe-5 text-light" href="../../../Php-BookStore/books.php">BOOKS</a>
+                            <a class="nav-link active pe-5 text-light" href="../../../Book-store-php/book-store/books.php">BOOKS</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link active pe-5 text-light" href="../../../Php-BookStore/about.php" tabindex="-1" aria-disabled="true">About US</a>
+                            <a class="nav-link active pe-5 text-light" href="../../../Book-store-php/book-store/about_us.php" tabindex="-1" aria-disabled="true">About US</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active pe-5 text-light" href="../../../Php-BookStore/contact.php">Contact Us</a>
+                            <a class="nav-link active pe-5 text-light" href="../../../Book-store-php/book-store/contact_us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div>
